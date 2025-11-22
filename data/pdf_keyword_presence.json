@@ -1,0 +1,15 @@
+{
+  "# 笑顔検出の検証レポート": false,
+  "## 1) 要約": false,
+  "smile_predict": true,
+  "coding_test_smile_detection_reordered.ipynb": true,
+  "0.915": true,
+  "0.856": true,
+  "th_ratio": true,
+  "mouth_width": true,
+  "検証(Val)での精度": false,
+  "口角": false,
+  "0.855": true,
+  "22.5": true,
+  "0.135": true
+}
